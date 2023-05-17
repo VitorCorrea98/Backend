@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Foagao",
+      "price": 20.99
+    },
+    {
+      "id": 3,
+      "name": "Panela",
+      "price": 500.98
+    },
+    {
+      "id": 4,
+      "name": "Panela velha",
+      "price": "150.89"
+    }
+  ]
+}
